@@ -1,0 +1,11 @@
+{
+  "main": "chat.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.6.3",
+    "prompt": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
